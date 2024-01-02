@@ -1,2 +1,1 @@
-# APS360
-Applied Fundamentals of Deep Learning
+# APS360 - Applied Fundamentals of Deep Learning
